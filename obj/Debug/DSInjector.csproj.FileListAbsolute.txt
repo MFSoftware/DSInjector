@@ -1,0 +1,13 @@
+C:\Users\Nikita\Desktop\DS\DSInjector\bin\Debug\DSInjector.exe
+C:\Users\Nikita\Desktop\DS\DSInjector\bin\Debug\DSInjector.pdb
+C:\Users\Nikita\Desktop\DS\DSInjector\obj\Debug\DSInjector.Highlight_Form.resources
+C:\Users\Nikita\Desktop\DS\DSInjector\obj\Debug\DSInjector.Main_Form.resources
+C:\Users\Nikita\Desktop\DS\DSInjector\obj\Debug\DSInjector.Properties.Resources.resources
+C:\Users\Nikita\Desktop\DS\DSInjector\obj\Debug\DSInjector.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\DS\DSInjector\obj\Debug\DSInjector.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\DS\DSInjector\obj\Debug\DSInjector.csproj.CopyComplete
+C:\Users\Nikita\Desktop\DS\DSInjector\obj\Debug\DSInjector.exe
+C:\Users\Nikita\Desktop\DS\DSInjector\obj\Debug\DSInjector.pdb
+C:\Users\Nikita\Desktop\DS\DSInjector\bin\Debug\FastColoredTextBox.dll
+C:\Users\Nikita\Desktop\DS\DSInjector\bin\Debug\FastColoredTextBox.xml
+C:\Users\Nikita\Desktop\DS\DSInjector\obj\Debug\DSInjector.csprojAssemblyReference.cache
